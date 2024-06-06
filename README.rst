@@ -28,5 +28,5 @@ Version 1.3.0 - 2024.06.06 - Lorincz Barna - Soft4biz
 
 Developped by
 -------------
-* Soldigo <support@soldigo.com>
+* Onchat <info@onchat.ai>
 * Lorincz Barna <barni@soft4biz.ro>
